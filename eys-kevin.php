@@ -24,7 +24,8 @@ include("marco-right.php");
   </div>
   <div style="width: 100%; height:100%;" >
            <div  style="text-align:justify; font-size: 20px;">
-                   <p class="eys-parrafo">Soy Kevin Aguilar, tengo x años.. </p>
+                   <p class="eys-parrafo">Soy Kevin Aguilar, tengo 22 años de edad, nací en la ciudad de Esmeraldas, actualmente soy estudiante de la Universidad Técnica Luis Vargas Torres, estudio la carrera de Ingenieria en Tecnologias de la Información. </p>
+                   <p class="eys-parrafo">Siempre me llamo la atención los temas que traten sobre informatica, pese a que la tecnologia va avanzando, cada dia hay algo nuevo que aprender.</p>
 
    <div id="blog-seccion2"  style="height: 50px;"></div>
 
@@ -32,22 +33,22 @@ include("marco-right.php");
     
 
 
-                   <p class="eys-parrafo">Mis estudios secundarios los realiza en .....</p>
-
+                   <p class="eys-parrafo">Mis estudios secundarios los realice en el colegio Maria Auxiliadora, donde seguí la carrera de informatica, se podría decir que fue en esta etapa donde me intereso aprender más sobre el diseño y creación de páginas web.</p>
+                   <p class="eys-parrafo">Aprendi a manejar lenguaje de etiquetas en 6to curso y aprendí algunas bases sobre creación de paginas web, para la creación de aplicaciones de escritorio utilizaba el lenguaje de programacion java.</p>
    <div id="blog-seccion3"  style="height: 50px;"></div>
 
     <h2 style="border-bottom: 1px solid green;"> Mi perfil informático</h2> 
     
 
 
-                   <p  class="eys-parrafo">Durante mi carrera universitaria he logrado manera herramientas como ....</p>
-
+                   <p  class="eys-parrafo">Durante mi carrera universitaria he logrado manejar herramientas como c++, VisualStudio, Netbeans y he trabajado con diferentes entornos como Atom, VisualStudio Code, sublime text y otros.</p>
+                   <p  class="eys-parrafo">Me gusta mucho aprender sobre temas informaticos, crear paginas web y aprender cada dia algo nuevo sobre la programación, me gustaria aprender a manejar herramientas como phyton y php.</p>
    <div id="blog-seccion4"  style="height: 50px;"></div>
 
     <h2 style="border-bottom: 1px solid green;"> Mis Hooby</h2> 
     
 
-                   <p   class="eys-parrafo">En mis ratos libres me gusta practicar ....</p>
+                   <p   class="eys-parrafo">En mis ratos libres me gusta practicar muchas cosas productivas, como entonar la guitarra, hacer deporte, y siempre trato de aprender cosas nuevas viendo videos tutoriales.</p>
        
 
                    
