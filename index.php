@@ -3,8 +3,14 @@
 include("head.php");
 ?>
 
-<div class="w3-card-2" style="background-image: url(assets/images/educaysoft/montaje4.png);  background-repeat: no-repeat; background-size:cover; background-size:100% 100%;">
+<div class="w3-card-2 image-portada1">
     <div  style="height:800px;  "  >
+          <div class="texto-portada1">
+            <h1> Yo soy Stalin Francis </h1>
+         <p> Soy docente programador </p>
+         <p> Universidad Técnica Luis Vargas Torres</p>
+          <button onclick="window.location.href='eys-stalin.php'"> El equipo</button> 
+        </div>
        	<div class="w3-card-4 w3-blue" style="position:absolute; left: 5%; top:30%; width:35vw;  color:red; text-align:center; opacity:0.8; border-radius: 15px;" >
        				<p style="font-size:100%;">Organización dedicada a la Capacitación, Asesoria, Investigación, y  desarrollo  de tecnología de la información.</p>
        	</div>
