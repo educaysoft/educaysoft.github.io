@@ -24,31 +24,29 @@ include("marco-right.php");
   </div>
   <div style="width: 100%; height:100%;" >
            <div  style="text-align:justify; font-size: 20px;">
-                   <p class="eys-parrafo"> Mi nombre es Damaris Margarita  Miranda Bolaños , tengo 25 años, soy oriunda del Cantón Esmeraldas, cuidad de Esmeraldas en el barrio Mina de Piedra sector de Aire libre Alto, mis padres son Mariano Miranda Y Soraya Bolaños y tengo 4 hermanos varones que son Geovanny, Rubén ,Samuel y Josué. </p>
-
-                   <p class="eys-parrafo">Desde muy pequeña he sido formada en una familia con principios cristianos y actualmente me encuentro asistiendo a una iglesia evangélica.  </p>
+                   <p class="eys-parrafo">Soy Damaris Margarita  Miranda Bolaños , tengo 25 años soy horiunda del Cantón Esmeraldas, cuidad de Esmeraldas en el barrio Mina de Piedra sector de Aire libre Alto, mis padres son Mariano Miranda Y Soraya Bolaños y tengo 4 hermanos varones que son Geovanny, Rubén ,Samuel y Josué. Desde muy pequeña he sido formada en una familia con principios cristianos. mi formación academica inicio en la escuela Dr Luis Prado Viteri. Mis estudios de tercer nivel los estoy realizando en la Universidad Tecnica Luis Vargas Torres donde ha sido mi formación para abrir camino en el ambito laboral..    .. </p>
    <div id="blog-seccion2"  style="height: 50px;"></div>
 
     <h2 style="border-bottom: 1px solid green;"> Mis estudios</h2> 
     
 
 
-                   <p class="eys-parrafo"> Mis estudios secundarios los realice en el colegio Tecnico Luis Vargas Torres. Mis estudios de tercer nivel los estoy realizando en la Universidad Tecnica Luis Vargas Torres donde ha sido mi formación para abrir camino en el ambito laboral..</p>
+                   <p class="eys-parrafo">Mis estudios secundarios los realice en el  colegio Tecnico Luis Vargas Torres.....</p>
 
    <div id="blog-seccion3"  style="height: 50px;"></div>
 
-    <h2 style="border-bottom: 1px solid green;"> Mi perfil informático </h2> 
+    <h2 style="border-bottom: 1px solid green;"> Mi perfil informático Soy futura ingeniera en sistemas informaticos y estoy inmersa en el ambito del desarrollo web. </h2> 
+    
 
-    <p class="eys-parrafo">Soy futura ingeniera en sistemas informaticos y estoy inmersa en el ambito del desarrollo web.</p>
 
-                   <p  class="eys-parrafo">Durante mi carrera universitaria he logrado manejar herramientas como Visual Studio, Sql server, proximamente java script, html y php ....</p>
+                   <p  class="eys-parrafo">Durante mi carrera universitaria he logrado manejar herramientas como visual studio, Sql server, proximamente java script, html y php ....</p>
 
    <div id="blog-seccion4"  style="height: 50px;"></div>
 
-    <h2 style="border-bottom: 1px solid green;"> Mis Hooby </h2> 
+    <h2 style="border-bottom: 1px solid green;"> Mis Hooby la musica y la programación web .</h2> 
     
 
-                   <p   class="eys-parrafo"> La música y la programación web en mis ratos libres me gusta hacer contenido digital en mi página de facebook aparte de dedicarme a mis estudios me gusta entonar piano y cantar en mi iglesia....</p>
+                   <p   class="eys-parrafo">En mis ratos libres me gusta hacer contenido digital en mi pagina de facebook aparte de dedicarme a mis estudios tambien soy adoradora en mi iglesia....</p>
        
 
                    

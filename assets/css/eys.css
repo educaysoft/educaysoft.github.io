@@ -3,8 +3,7 @@
 
 body{
 margin:0;
-height:100%;
-margin-top:0;
+min-height:100vh;
 margin-bottom:0;
 padding-top:0;
 padding-bottom:0;
@@ -15,23 +14,22 @@ flex-direction:column;
 
 
 #eys-footer{
-position: relative;
 height: 200px;
 width:100%;
-background-color:silver;
+background-color: lightgray;
 bottom:0;
-/*margin-top:-200px;
-margin-bottom:10px;*/
+margin-bottom:0 px;
+padding:20px;
 }
 
 
 #eys-footer div{
-display:inline-block;
+display: inline-block;
 width:80%;
-margin-left: 10%;
-position: relative;
-padding:0px;
+margin: auto;
+padding:5px;
 }
+
 #eys-footer div div{
 float:left;
 width:20%;
@@ -39,6 +37,7 @@ position:relative;
 text-align:left;
 height: 100%;
 }
+
 
 #eys-footer div p{
    font-size: 1.5vw;
@@ -55,6 +54,12 @@ height: 100%;
   	border-radius:15px;
  	background-color:white;
 }
+
+#eys-caja:hover{
+ 
+  border:5px solid green;
+}
+
 
 
 @import url(https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css);
@@ -89,17 +94,18 @@ height: 100%;
 
 
 #eys-contenido-g{
+  border:5px solid white;
   position:absolute;
-  width:95%;
+  width:100%;
   min-height: 100vh;
   margin-bottom:0px;
 }
 
 
-#eys-parrafo{
+.eys-parrafo{
 text-align:justify;
-
-
+text-indent: 50px;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
 
@@ -187,5 +193,41 @@ background-color:white;
     
 }
 
+.tablacosto{
+
+}
+ .tablacosto  table {
+  
+border:0px;
+border-collapse:collapse;
+border-spacing:0px;
+}
+
+.tablacosto td {
+font-size: 0.8vw;
+ padding:0px;
+border-width:0px;
+margin:0px;
+}
 
 
+.image-portada1{
+
+background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),url("../../images/montaje4.png");
+
+height: 50%;
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+position: relative;
+
+}
+
+.texto-portada1{
+  text-align: center;
+  position :absolute;
+  top: 50%;
+  left: 50%;
+  transform:translate(-50%,-50%);
+  color: white;
+}
